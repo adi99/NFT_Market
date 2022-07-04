@@ -14,7 +14,8 @@ Choose between auctions, fixed-price listings, and declining-price listings. You
 # Install required modules
 Run command - npm install
 
-# Migrate to Binance Smart Chain
+# Migrate to Oasis Emerald (Chain ID- '42261') Testnet
+
 Step 1 - Add your private key to the truffle.config file.
 Step 2 - Run command - truffle migrate --reset
 
