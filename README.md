@@ -18,9 +18,8 @@ A peer-to-peer marketplace for NFTs, rare digital items and crypto collectibles.
 ### Listing have following Options:-
 - Auctions 
 - Fixed-price listing
-- Declining-price listings 
+- Declining-price listings <br />
 <b>You choose how you want to sell your NFTs, and we help you sell them!</b>
-
 
 ## Install required modules
 Run command - npm install
