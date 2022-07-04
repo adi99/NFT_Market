@@ -15,7 +15,7 @@ A peer-to-peer marketplace for NFTs, rare digital items and crypto collectibles.
 - Customize your NFTs with properties, stats, and unlockable content.
 
 # List them for sale
-###Listing have following Options:-
+### Listing have following Options:-
 - Auctions 
 - Fixed-price listing
 - Declining-price listings 
